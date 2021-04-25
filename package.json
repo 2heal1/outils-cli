@@ -1,6 +1,6 @@
 {
   "name": "outils-cli",
-  "version": "1.0.0.alpha-1",
+  "version": "0.0.1",
   "description": "outils-cli is a tool for helping create cmd project immediately",
   "main": "index.js",
   "scripts": {
