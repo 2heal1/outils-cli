@@ -17,7 +17,7 @@
     "download-git-repo": "^3.0.2",
     "handlebars": "^4.7.7",
     "inquirer": "^8.0.0",
-    "log-symbols": "^5.0.0",
+    "lodash": "^4.17.21",
     "ora": "^5.4.0",
     "shelljs": "^0.8.4"
   }
