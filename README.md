@@ -18,7 +18,7 @@ outils --help
 
 ## ChangeLog
 
-### v1.0.0.alpha-1
+### v0.0.2
 
 #### Feature
 
