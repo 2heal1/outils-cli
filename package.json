@@ -1,0 +1,24 @@
+{
+  "name": "outils-cli",
+  "version": "1.0.0.alpha-1",
+  "description": "outils-cli is a tool for helping create cmd project immediately",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "outils": "bin/index.js"
+  },
+  "author": "2heal1",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "handlebars": "^4.7.7",
+    "inquirer": "^8.0.0",
+    "log-symbols": "^5.0.0",
+    "ora": "^5.4.0",
+    "shelljs": "^0.8.4"
+  }
+}
