@@ -1,6 +1,6 @@
 # outils-cli
 
-outils-cli is a tool for helping create cmd project immediately
+outils-cli is a tool for helping creating cmd project immediately
 
 ## 安装
 
