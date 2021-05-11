@@ -38,8 +38,8 @@ outils --help
 
 ## ChangeLog
 
-### v0.0.3
+### v0.0.4
 
-#### Feature
+#### Bugfix
 
-init
+1. 移除多余依赖 `download-git-repo`
